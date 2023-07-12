@@ -1,7 +1,8 @@
 # 100-days-of-coding
 Udemy Course: 100 Days of Code
 
-Day 1 ~ 14: Beginner
+
+Day 1 ~ 14: Beginner\n
 Day 15 ~ 40: Intermediate
 Day 41 ~ 44: Web Foundation
 Day 45 ~ 58: Intermediate+
