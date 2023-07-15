@@ -20,10 +20,10 @@ def caesar(start_text, shift_amount, cipher_direction):
 
     print(f"Here's the {cipher_direction}d result: {end_text}")
 
-
+#import ASCII Art
 from art import logo
-
 print(logo)
+
 rerun = True
 
 while rerun:
