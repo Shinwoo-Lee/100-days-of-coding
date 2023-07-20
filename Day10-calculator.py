@@ -48,5 +48,4 @@ def calculator():
     clear()
     calculator()
 
-
 calculator()
