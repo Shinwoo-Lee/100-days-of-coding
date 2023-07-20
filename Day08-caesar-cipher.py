@@ -5,7 +5,6 @@ alphabet = [
     't', 'u', 'v', 'w', 'x', 'y', 'z'
 ]
 
-
 def caesar(start_text, shift_amount, cipher_direction):
     end_text = ""
     if cipher_direction == "decode":
