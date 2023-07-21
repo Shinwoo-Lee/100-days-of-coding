@@ -3,7 +3,7 @@ Udemy Course
 > 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 
 
-Day 1 ~ 14: Beginner
+Day 1 ~ 14: Beginner / run on replit / art.py = ASCII art
 
 Day 15 ~ 40: Intermediate
 
